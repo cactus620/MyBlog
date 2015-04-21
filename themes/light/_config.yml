@@ -1,0 +1,44 @@
+menu:
+  Home: /
+  Sketch Book: /Sketch-Book
+  Piano Room: /Piano-Room
+  About: /About
+  Archives: /archives
+
+widgets:
+- search
+- category
+- tag
+
+excerpt_link: "Read More"
+
+#### Toc
+toc:
+  article: true 
+  aside: true 
+  
+twitter:
+  username:
+  show_replies: false
+  tweet_count: 5
+
+addthis:
+  enable: true
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+fancybox: true
+
+google_analytics: UA-56747212-1
+rss: /atom.xml
+  
+comment_provider:
+# Facebook comment
+facebook:
+  appid: 123456789012345
+  comment_count: 5
+  comment_width: 840
+  comment_colorscheme: light
