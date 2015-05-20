@@ -2,3 +2,4 @@ db.json
 package.json
 public/
 .deploy/
+npm-debug.log
