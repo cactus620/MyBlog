@@ -4,6 +4,6 @@ categories: Sketch
 tags:
 ---
 Completed the one on the book cover.
-<div style="max-width:300px">![My Kitten](/img/sketches/2015.05.04.JPG)</div>
+<img src="/img/sketches/2015.05.04.JPG" width="300" alt="My Kitten" />
 The original one below. Looks more lovely.
-<div style="max-width:100px">![Original](/img/post/Kitten-cover.JPG)</div>
+<img src="/img/post/Kitten-cover.JPG" width="100" alt="Original" />

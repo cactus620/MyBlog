@@ -4,6 +4,6 @@ categories: Sketch
 tags:
 ---
 Gundam Exia.
-<div style="max-width:300px">![Lined](/img/sketches/2015.05.10-1.JPG)</div>
-<div style="max-width:300px">![Shadowed](/img/sketches/2015.05.10-2.JPG)</div>
-<div style="max-width:300px">![Colored](/img/sketches/2015.05.10-3.JPG)</div>
+<img src="/img/sketches/2015.05.10-1.JPG" width="300" alt="Lined" />
+<img src="/img/sketches/2015.05.10-2.JPG" width="300" alt="Shadowed" />
+<img src="/img/sketches/2015.05.10-3.JPG" width="300" alt="Colored" />

@@ -4,10 +4,10 @@ categories: Sketch
 tags:
 ---
 Done:
-<div style="max-width:300px">![2015-03-15-4](/img/sketches/2015.03.15-4.JPG)</div>
+<img src="/img/sketches/2015.03.15-4.JPG" width="300" alt="2015-03-15-4" />
 Progress:
 <!--more-->
-<div style="max-width:300px">![2015-03-15-1](/img/sketches/2015.03.15-1.JPG)</div>
-<div style="max-width:300px">![2015-03-15-2](/img/sketches/2015.03.15-2.JPG)</div>
-<div style="max-width:300px">![2015-03-15-3](/img/sketches/2015.03.15-3.JPG)</div>
-<div style="max-width:300px">![2015-03-15-4](/img/sketches/2015.03.15-4.JPG)</div>
+<img src="/img/sketches/2015.03.15-1.JPG" width="300" alt="2015-03-15-1" />
+<img src="/img/sketches/2015.03.15-2.JPG" width="300" alt="2015-03-15-2" />
+<img src="/img/sketches/2015.03.15-3.JPG" width="300" alt="2015-03-15-3" />
+<img src="/img/sketches/2015.03.15-4.JPG" width="300" alt="2015-03-15-4" />

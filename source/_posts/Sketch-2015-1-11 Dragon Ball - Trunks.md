@@ -4,6 +4,6 @@ categories: Sketch
 tags:
 ---
 Pencil drawing
-<div style="max-width:300px">![2015-01-11 Before](/img/sketches/2015.01.11-1.JPG)</div>
+<img src="/img/sketches/2015.01.11-1.JPG" width="300" alt="2015-01-11 Before" />
 Done:
-<div style="max-width:300px">![2015-01-11 After](/img/sketches/2015.01.11-2.JPG)</div>
+<img src="/img/sketches/2015.01.11-2.JPG" width="300" alt="2015-01-11 After" />

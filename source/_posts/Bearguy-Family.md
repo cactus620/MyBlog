@@ -5,15 +5,15 @@ tags:
 ---
 ##Beargguy Family
 In progress:
-<div style="max-width:300px">![BearguyFamily 1](/img/gunpla/BearguyFamily-1.JPG)</div>
+<img src="/img/gunpla/BearguyFamily-1.JPG" width="300" alt="BearguyFamily 1" />
 Completed:
-<div style="max-width:300px">![BearguyFamily 2](/img/gunpla/BearguyFamily-2.JPG)</div>
+<img src="/img/gunpla/BearguyFamily-2.JPG" width="300" alt="BearguyFamily 2" />
 <!--more-->
 ##Posing:
-<div style="max-width:300px">![BearguyFamily 3](/img/gunpla/BearguyFamily-3.JPG)</div>
-<div style="max-width:300px">![BearguyFamily 4](/img/gunpla/BearguyFamily-4.JPG)</div>
+<img src="/img/gunpla/BearguyFamily-3.JPG" width="300" alt="BearguyFamily 3" />
+<img src="/img/gunpla/BearguyFamily-4.JPG" width="300" alt="BearguyFamily 4" />
 ##Mark II carrying the little bear
-<div style="max-width:300px">![BearguyFamily 5](/img/gunpla/BearguyFamily-5.JPG)</div>
+<img src="/img/gunpla/BearguyFamily-5.JPG" width="300" alt="BearguyFamily 5" />
 ##With the other bear
-<div style="max-width:300px">![BearguyFamily 6](/img/gunpla/BearguyFamily-6.JPG)</div>
-<div style="max-width:300px">![BearguyFamily 7](/img/gunpla/BearguyFamily-7.JPG)</div>
+<img src="/img/gunpla/BearguyFamily-6.JPG" width="300" alt="BearguyFamily 6" />
+<img src="/img/gunpla/BearguyFamily-7.JPG" width="300" alt="BearguyFamily 7" />

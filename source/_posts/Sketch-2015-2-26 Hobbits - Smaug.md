@@ -3,5 +3,5 @@ date: 2015-02-26 22:45:18
 categories: Sketch
 tags:
 ---
-<div style="max-width:300px">![2015-02-26](/img/sketches/2015.02.26.JPG)</div>
+<img src="/img/sketches/2015.02.26.JPG" width="300" alt="2015-02-26" />
 

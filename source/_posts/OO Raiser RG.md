@@ -4,12 +4,12 @@ categories: GUNPLA
 tags:
 ---
 New RG this year: Gundum OO Raiser
-##Posing:
-<div style="max-width:300px">![OOR 1](/img/gunpla/OOR-2.JPG)</div>
-<div style="max-width:300px">![OOR 2](/img/gunpla/OOR-7.JPG)</div>
+##Poses:
+<img src="/img/gunpla/OOR-2.JPG" width="300" alt="OOR 1" />
+<img src="/img/gunpla/OOR-7.JPG" width="300" alt="OOR 2" />
 <!--more-->
-<div style="max-width:300px">![OOR 2](/img/gunpla/OOR-1.JPG)</div>
-<div style="max-width:300px">![OOR 3](/img/gunpla/OOR-3.JPG)</div>
-<div style="max-width:300px">![OOR 4](/img/gunpla/OOR-4.JPG)</div>
-<div style="max-width:300px">![OOR 5](/img/gunpla/OOR-5.JPG)</div>
-<div style="max-width:300px">![OOR 2](/img/gunpla/OOR-6.JPG)</div>
+<img src="/img/gunpla/OOR-1.JPG" width="300" alt="OOR 2" />
+<img src="/img/gunpla/OOR-3.JPG" width="300" alt="OOR 3" />
+<img src="/img/gunpla/OOR-4.JPG" width="300" alt="OOR 4" />
+<img src="/img/gunpla/OOR-5.JPG" width="300" alt="OOR 5" />
+<img src="/img/gunpla/OOR-6.JPG" width="300" alt="OOR 2" />

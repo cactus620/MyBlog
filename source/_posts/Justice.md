@@ -5,9 +5,9 @@ tags:
 ---
 Justice
 ##Posing:
-<div style="max-width:300px">![Justice 1](/img/gunpla/Justice-1.JPG)</div>
+<img src="/img/gunpla/Justice-1.JPG" width="300" alt="Justice 1" />
 <!--more-->
-<div style="max-width:300px">![Justice 2](/img/gunpla/Justice-2.JPG)</div>
+<img src="/img/gunpla/Justice-2.JPG" width="300" alt="Justice 2" />
 
 ##Justice with a friend:
-<div style="max-width:300px">![Justice 3](/img/gunpla/Justice-3.JPG)</div>
+<img src="/img/gunpla/Justice-3.JPG" width="300" alt="Justice 3" />
