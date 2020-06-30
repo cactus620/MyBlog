@@ -1,5 +1,6 @@
 db.json
 package.json
+package-lock.json
 public/
 .deploy/
 npm-debug.log
