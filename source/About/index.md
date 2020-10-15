@@ -1,7 +1,7 @@
 title: About
 date: 2014-11-11 18:48:58
 ---
-I'm a super lazy girl. But,
-I write program better than other painters;
-I paint better than other pianists;
-I play piano better than other programmers.
+This is a super lazy girl. 
+She writes program better than other painters;
+She paints better than other pianists;
+She plays music better than other programmers.
